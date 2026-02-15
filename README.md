@@ -4,7 +4,6 @@ Hi there! 👋 I'm **KimiZK**, a passionate developer, lifelong learner, and occ
 
 [![](https://visitcount.itsvg.in/api?id=KimiZK-Dev&icon=0&color=8)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/913110942127095889?borderRadius=10px&idleMessage=Newbie%2C%20lazy%20and%20stupid%20%F0%9F%97%BF&theme=&animated=false&animatedDecoration=false&hideStatus=false&showDisplayName=true&hideDecoration=false)](https://discord.com/users/913110942127095889)
 
 ## 🚀 About Me
 - 💻 **Tech Enthusiast**: I specialize in front-end development and enjoy experimenting with new technologies.
