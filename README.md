@@ -31,7 +31,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 <td width="50%" valign="top">
 
 ### 🎯 Mình quan tâm
-- 🎨 Thiết kế giao diện sạch, thân thiện với người dùng
+- 🎨 Thiết kế giao diện sạch, thân thiện 
 - 🧠 Giải quyết vấn đề một cách sáng tạo
 - 📚 Học hỏi không ngừng, mỗi ngày một chút
 
