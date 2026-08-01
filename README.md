@@ -14,9 +14,11 @@
 
 <br/>
 
-## 👋 A little about me
+<h2 align="center">👋 A little about me</h2>
 
 Mình là **KimiZK** — một front-end developer thích biến ý tưởng thành sản phẩm thật qua từng dòng code. Mình mê xây dựng giao diện gọn gàng, trực quan và dễ dùng, đồng thời luôn tò mò với công nghệ mới. Ngoài code, mình còn là một *"cú đêm"* chính hiệu — code hăng nhất là sau nửa đêm, kèm một ly cà phê ☕.
+
+<div align="center">
 
 <table>
 <tr>
@@ -39,9 +41,11 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 
@@ -51,7 +55,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <br/>
 
-## 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
 
@@ -63,7 +67,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <br/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -76,7 +80,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <br/>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
@@ -86,7 +90,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <br/>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=KimiZK-Dev&theme=radical&no-frame=true&margin-w=8&margin-h=8"/>
@@ -94,7 +98,7 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <br/>
 
-## 💌 Let's build something together
+<h2 align="center">💌 Let's build something together</h2>
 
 <div align="center">
 
