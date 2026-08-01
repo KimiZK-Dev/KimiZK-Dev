@@ -56,12 +56,10 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 <div align="center">
 
 <a href="https://kimizk-dev.github.io/My-Profile/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KimiZK-Dev&repo=My-Profile&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KimiZK-Dev&repo=My-Profile&theme=radical&hide_border=true" height="150"/>
 </a>
 
 </div>
-
-<sub>✏️ Ghim thêm project khác bằng cách đổi tham số <code>repo=</code> ở trên, hoặc cho mình biết tên các repo nổi bật của bạn để mình ghim đủ 2–4 ô.</sub>
 
 <br/>
 
@@ -76,8 +74,6 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 </div>
 
-<sub>💡 Các thẻ thống kê chạy trên server cộng đồng miễn phí nên đôi lúc tải chậm — chỉ cần load lại là được.</sub>
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -87,8 +83,6 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 <img src="https://raw.githubusercontent.com/KimiZK-Dev/KimiZK-Dev/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
-
-<sub>🔧 Hiệu ứng "rắn ăn" biểu đồ đóng góp cần 1 lần setup GitHub Action riêng (mình gửi kèm file workflow bên dưới) — sau khi setup xong ảnh này sẽ tự động chạy.</sub>
 
 <br/>
 
