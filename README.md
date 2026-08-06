@@ -59,8 +59,11 @@ Mình là **KimiZK** — một front-end developer thích biến ý tưởng th�
 
 <div align="center">
 
-<a href="https://kimizk-dev.github.io/My-Profile/">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=KimiZK-Dev&repo=My-Profile&theme=radical&hide_border=true" height="150"/>
+<a href="https://kimizk-dev.github.io/F8-Project/">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KimiZK-Dev&repo=F8-Project&theme=radical&hide_border=true" height="150"/>
+</a>
+<a href="https://kimizk-dev.github.io/KimiZK-Translator/">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=KimiZK-Dev&repo=KimiZK-Translator&theme=radical&hide_border=true" height="150"/>
 </a>
 
 </div>
